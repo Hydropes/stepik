@@ -1,2 +1,2 @@
 # stepik_courses
- tasks from some stepik couses
+ задачи из курсов степика по си и плюсам
